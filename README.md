@@ -28,7 +28,7 @@ The_Brown_Mug/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/The_Brown_Mug.git
+   git clone https://github.com/Mahesh9359/the_brown_mug_cafe.git
    ```
 2. Open the `index.html` file in your browser to view the website.
    
@@ -50,6 +50,5 @@ The_Brown_Mug/
 ![Our Menu](./Screenshot%202025-01-28%20010836.png)
 
 ---
-
 
 Enjoy exploring **[The Brown Mug Cafe! ☕](https://github.com/Mahesh9359/the_brown_mug_cafe)**
